@@ -1,0 +1,20 @@
+ECOQUEST - A MISSÃO DO PLANETA
+
+Objetivo:
+Desenvolver um jogo educativo que incentive atitudes de preservação ambiental.
+
+Mecânicas:
+- movimentação do personagem;
+- coleta de resíduos;
+- obstáculos;
+- sistema de vidas;
+- sistema de pontuação;
+- cinco fases;
+- perguntas de educação ambiental;
+- tela de vitória e fim de jogo.
+
+Tecnologias:
+- Python
+- Pygame
+
+O projeto pode posteriormente ser integrado a um sistema Django para cadastro de jogadores e ranking.
